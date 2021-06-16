@@ -25,12 +25,12 @@
 </h4>
 
 <p align="center">
- <a href="#💻-sobre-o-projeto">Sobre</a> •
- <a href="#🎨-layout">Layout</a> • 
- <a href="#🚀-como-executar-o-projeto">Como executar</a> • 
- <a href="#🛠-tecnologias">Tecnologias</a> • 
- <a href="#🦸-autor">Autor</a> • 
- <a href="#📝-licença">Licença</a>
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#-licença">Licença</a>
 </p>
 
 
@@ -56,17 +56,17 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center"  align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Bikcraft Layout Mobile" title="Bikcraft Layout Mobile" src="./img/preview/bikcraft-mobile-1.png" width="400px" style="margin-right: 20px">
+  <img alt="Bikcraft Layout Mobile" title="Bikcraft Layout Mobile" src="./img/preview/bikcraft-mobile-1.png" width="300px" style="margin-right: 20px">
 
-  <img alt="Bikcraft Layout Mobile" title="Bikcraft Layout Mobile" src="./img/preview/bikcraft-mobile-2.png" width="400px">
+  <img alt="Bikcraft Layout Mobile" title="Bikcraft Layout Mobile" src="./img/preview/bikcraft-mobile-2.png" width="300px">
 </p>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Bikcraft Layout Web" title="Bikcraft Layout Web" src="./img/preview/bikcraft-web-1.png" width="400px" style="margin-right: 20px">
+  <img alt="Bikcraft Layout Web" title="Bikcraft Layout Web" src="./img/preview/bikcraft-web-1.png" width="300px" style="margin-right: 20px">
 
-  <img alt="Bikcraft Layout Web" title="Bikcraft Layout Web" src="./img/preview/bikcraft-web-2.png" width="400px">
+  <img alt="Bikcraft Layout Web" title="Bikcraft Layout Web" src="./img/preview/bikcraft-web-2.png" width="300px">
 </p>
 
 ---
@@ -79,6 +79,11 @@ Este projeto é composto apenas pelo Frontend.
 
 Antes de começar, você vai precisar ter instalado em sua máquina o
 [Git](https://git-scm.com). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+```bash
+    # Para clonar o repositório use o comando abaixo em seu terminal
+    $ git clone git@github.com:matheus-calixto-silva/Bikcraft.git
+```
 
 #### 🧭 Rodando a aplicação
 
