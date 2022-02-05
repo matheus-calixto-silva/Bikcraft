@@ -55,19 +55,17 @@ O layout da aplicação está disponível no Figma:
 
 ### Mobile
 
-<p align="center"  align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Bikcraft Layout Mobile" title="Bikcraft Layout Mobile" src="./img/preview/bikcraft-mobile-1.png" width="300px" style="margin-right: 20px">
 
-  <img alt="Bikcraft Layout Mobile" title="Bikcraft Layout Mobile" src="./img/preview/bikcraft-mobile-2.png" width="300px">
-</p>
+
+https://user-images.githubusercontent.com/56086100/152652376-c4a02e9a-bc9a-4557-9f9f-04553a0f573e.mp4
+
+
 
 ### Web
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Bikcraft Layout Web" title="Bikcraft Layout Web" src="./img/preview/bikcraft-web-1.png" width="300px" style="margin-right: 20px">
 
-  <img alt="Bikcraft Layout Web" title="Bikcraft Layout Web" src="./img/preview/bikcraft-web-2.png" width="300px">
-</p>
+https://user-images.githubusercontent.com/56086100/152652169-83c39dba-a887-4c8f-8c67-f925388e5f2c.mp4
+
 
 ---
 
